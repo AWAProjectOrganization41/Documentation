@@ -1,0 +1,3 @@
+When you want to test this locally:
+
+Get both frontend and backend repository on your device and start them on console by calling 'npm start'
